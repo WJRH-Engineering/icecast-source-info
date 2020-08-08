@@ -28,8 +28,24 @@ Note that only one person may connect to a mount on the Icecast server at a time
 
 
 ### Recommended Icecast Source Client
-WJRH Engineering recommend the broadcast using this tool (butt) program for generating an Icecast source. Butt is available for Windows, Mac, and Linux. Please download butt at [https://danielnoethen.de/butt/](https://danielnoethen.de/butt/). 
+WJRH Engineering recommend the broadcast using this tool (butt) program for generating an Icecast source. Butt is available for Windows, Mac, and Linux. 
 
+1. Please download butt at [https://danielnoethen.de/butt/](https://danielnoethen.de/butt/). 
+
+![https://danielnoethen.de/butt/](images/butt/install-setup/webpage.jpg)
+
+![https://danielnoethen.de/butt/](images/butt/install-setup/webpage-download-links.jpg)
+
+
+2. Install butt.
+
+3. Run butt.
+
+![butt-startup](images/butt/install-setup/buttstartup.jpg)
+
+4. Open butt settings.
+
+![butt-startup](images/butt/install-setup/butt-settings-main-default.jpg)
 
 By default, butt will only broadcast audio input devices, such as the built in microphone on your computer. To broadcast from audio programs on your computer (e.g. Spotify), a virtual mixer will need to be used.
 
