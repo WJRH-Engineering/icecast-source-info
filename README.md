@@ -18,8 +18,10 @@ Every program will have a uniquie mount point. Use the following settings in you
 
 |Setting|Value|
 |-------|-----|
-|mount|*Program shortname (Teal API)*|
-|username|**source**|
+|server|remote.wjrh.org|
+|port|8000|
+|mountpoint|*Program shortname (Teal API)*|
+|username|source|
 |password|*Provided by WJRH Engineering*|
 
 WJRH Engineering will provide mount, username, and password to broadcasters upon request.
@@ -32,16 +34,15 @@ WJRH Engineering recommend the broadcast using this tool (butt) program for gene
 
 1. Please download butt at [https://danielnoethen.de/butt/](https://danielnoethen.de/butt/). 
 
-![https://danielnoethen.de/butt/](images/butt/install-setup/webpage.jpg)
+<img src="images/butt/install-setup/webpage.jpg" alt="https://danielnoethen.de/butt/" width="50%">
 
-![https://danielnoethen.de/butt/](images/butt/install-setup/webpage-download-links.jpg)
-
+<img src="images/butt/install-setup/webpage-download-links.jpg" alt="https://danielnoethen.de/butt/" width="50%">
 
 2. Install butt.
 
 3. Run butt.
 
-![butt-startup](images/butt/install-setup/butt-startup.jpg)
+<img src="images/butt/install-setup/butt-startup.jpg" alt="butt-startup">
 
 4. Open butt settings.
 
@@ -51,9 +52,23 @@ WJRH Engineering recommend the broadcast using this tool (butt) program for gene
 
 ![butt-settings-main-server-add](images/butt/install-setup/butt-settings-main-server-add.jpg)
 
-6. Fill out the server information replacing your-program-name, your-mountpoint, and your-password for your WJRH program. If you are unsure about this information, please contact WJRH Engineering.
+6. Fill out the server information as shown in the picture replacing your-program-name, your-mountpoint, and your-password with your actual information. This information was provided to you by WJRH Engineering when you signed up for a program. If you are unsure about this information, please contact WJRH Engineering.
 
-![butt-settings-main-server-add]-example(images/butt/install-setup/butt-settings-main-server-add-example.jpg)
+|Setting|Value|Value in Example|
+|-------|-----|----------------|
+|server|remote.wjrh.org|remote.wjrh.org|
+|port|8000|8000|
+|mountpoint|*Program shortname (Teal API)*|your-mountpoint|
+|username|source|source|
+|password|*Provided by WJRH Engineering*|your-password|
+
+<img src="images/butt/install-setup/butt-settings-main-server-add-example.jpg" alt="butt-settings-main-server-add">
+
+7.
+
+8.
+
+9.
 
 By default, butt will only broadcast audio input devices, such as the built in microphone on your computer. To broadcast from audio programs on your computer (e.g. Spotify), a virtual mixer will need to be used.
 
