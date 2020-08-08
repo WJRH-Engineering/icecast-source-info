@@ -41,11 +41,19 @@ WJRH Engineering recommend the broadcast using this tool (butt) program for gene
 
 3. Run butt.
 
-![butt-startup](images/butt/install-setup/buttstartup.jpg)
+![butt-startup](images/butt/install-setup/butt-startup.jpg)
 
 4. Open butt settings.
 
-![butt-startup](images/butt/install-setup/butt-settings-main-default.jpg)
+![butt-settings-main-default](images/butt/install-setup/butt-settings-main-default.jpg)
+
+5. To add the WJRH Icecast serve, click Add.
+
+![butt-settings-main-server-add](images/butt/install-setup/butt-settings-main-server-add.jpg)
+
+6. Fill out the server information replacing your-program-name, your-mountpoint, and your-password for your WJRH program. If you are unsure about this information, please contact WJRH Engineering.
+
+![butt-settings-main-server-add]-example(images/butt/install-setup/butt-settings-main-server-add-example.jpg)
 
 By default, butt will only broadcast audio input devices, such as the built in microphone on your computer. To broadcast from audio programs on your computer (e.g. Spotify), a virtual mixer will need to be used.
 
