@@ -42,15 +42,19 @@ WJRH Engineering recommend the broadcast using this tool (butt) program for gene
 
 3. Run butt.
 
-<img src="images/butt/install-setup/butt-startup.jpg" alt="butt-startup">
+<img src="images/butt/install-setup/butt-startup.jpg" alt="butt-startup" width="50%">
 
 4. Open butt settings.
 
-![butt-settings-main-default](images/butt/install-setup/butt-settings-main-default.jpg)
+<img src="images/butt/install-setup/butt-startup-click-settings.jpg" alt="butt-startup-click-settings" width="50%">
 
-5. To add the WJRH Icecast serve, click Add.
+<img src="images/butt/install-setup/butt-settings-main-default.jpg" alt="butt-settings-main-default" width="50%">
 
-![butt-settings-main-server-add](images/butt/install-setup/butt-settings-main-server-add.jpg)
+5. To add the WJRH Icecast serve, click Add. A blank form to add server information will open.
+
+<img src="images/butt/install-setup/butt-settings-main-default-click-add.jpg" alt="butt-settings-main-default-click-add" width="50%">
+
+<img src="images/butt/install-setup/butt-settings-main-server-add.jpg" alt="butt-settings-main-server-add" width="50%">
 
 6. Fill out the server information as shown in the picture replacing your-program-name, your-mountpoint, and your-password with your actual information. This information was provided to you by WJRH Engineering when you signed up for a program. If you are unsure about this information, please contact WJRH Engineering.
 
@@ -62,7 +66,7 @@ WJRH Engineering recommend the broadcast using this tool (butt) program for gene
 |username|source|source|
 |password|*Provided by WJRH Engineering*|your-password|
 
-<img src="images/butt/install-setup/butt-settings-main-server-add-example.jpg" alt="butt-settings-main-server-add">
+<img src="images/butt/install-setup/butt-settings-main-server-add-example.jpg" alt="butt-settings-main-server-add" width="50%">
 
 7.
 
