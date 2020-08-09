@@ -201,4 +201,4 @@ Audio Outputs
 ## Recording & Song Logging
 We will continue to use Teal to record shows and log songs. If your will be remote streaming to the main station, Teal will work exactly the same if you were in the studio in Hogg Hall and your recording will be available automatically on Teal.
 
-All remote streams will be recorded reguardless of whether they are relayed to the main station. Contact WJRH Engineering for a copy of remote broadcast. PLease include your show's name, the mountpoint used, and date and time of broadcast.
+All remote streams will be recorded regardless of whether they are relayed to the main station. Contact WJRH Engineering for a copy of remote broadcast. Please include your show's name, the mountpoint used, and date and time of broadcast.
