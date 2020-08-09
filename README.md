@@ -37,7 +37,7 @@ WJRH Engineering recommends the broadcast using this tool (butt) program as your
 
 <img src="images/butt/install-setup/webpage.jpg" alt="https://danielnoethen.de/butt/" width="50%">
 
-<img src="images/butt/install-setup/webpage-download-links.jpg" alt="https://danielnoethen.de/butt/" width="50%">
+<img src="images/butt/install-setup/webpage-download-links-circled.jpg" alt="https://danielnoethen.de/butt/" width="50%">
 
 <img src="images/butt/install-setup/butt-install-sourceforge.jpg" alt="butt-install-sourceforge" width="50%">
 
@@ -60,7 +60,7 @@ WJRH Engineering recommends the broadcast using this tool (butt) program as your
 
 <img src="images/butt/install-setup/butt-settings-main-default.jpg" alt="butt-settings-main-default" width="50%">
 
-5. To add the WJRH Icecast server, click ADD under the Server selection dropdown in the Server Settings section. A blank form to add server information will open.
+5. To add your programs mountpoint on the WJRH Icecast server, click ADD under the Server selection dropdown in the Server Settings section. A blank form to add server information will open.
 
 <img src="images/butt/install-setup/butt-settings-main-default-click-add.jpg" alt="butt-settings-main-default-click-add" width="50%">
 
@@ -78,15 +78,19 @@ WJRH Engineering recommends the broadcast using this tool (butt) program as your
 
 <img src="images/butt/install-setup/butt-settings-main-server-add-example.jpg" alt="butt-settings-main-server-add" width="50%">
 
-7. When finished, click ADD. You will return to the butt settings.
+7. When finished, click ADD. You will return to the butt settings. The server information you just added is now listed in the Server selection dropdown.
 
 <img src="images/butt/install-setup/butt-settings-main-server-add-example-click-add.jpg" alt="butt-settings-main-server-add-click-add" width="50%">
 
 <img src="images/butt/install-setup/butt-settings-main-server-selected.jpg" alt="butt-settings-main-server-selected" width="50%">
 
-8.
+8. Next we will add your program information that will appear on the stream. Click ADD under the Stream Infos selection dropdown in the Server Settings section. A blank form to add stream information will open.
 
-9.
+<img src="images/butt/install-setup/butt-settings-main-server-add2.jpg" alt="butt-settings-main-server-add2" width="50%">
+
+<img src="images/butt/install-setup/butt-settings-main-stream-infos-add.jpg" alt="butt-settings-main-stream-infos-add" width="50%">
+
+9. 
 
 If you have more than one program, add more servers and stream infos using steps 4 through 7 (X).
 
