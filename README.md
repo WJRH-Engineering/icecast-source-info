@@ -86,7 +86,7 @@ WJRH Engineering recommends the broadcast using this tool (butt) program as your
 
 8. Next we will add your program information that will appear on the stream. Click ADD under the Stream Infos selection dropdown in the Server Settings section. A blank form to add stream information will open.
 
-<img src="images/butt/install-setup/butt-settings-main-server-add2.jpg" alt="butt-settings-main-server-add2" width="50%">
+<img src="images/butt/install-setup/bbutt-settings-main-server-selected-click-add.jpg" alt="butt-settings-main-server-selected-click-add" width="50%">
 
 <img src="images/butt/install-setup/butt-settings-main-stream-infos-add.jpg" alt="butt-settings-main-stream-infos-add" width="50%">
 
