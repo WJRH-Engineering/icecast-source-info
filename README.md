@@ -40,7 +40,14 @@ WJRH Engineering recommend the broadcast using this tool (butt) program for gene
 
 <img src="images/butt/install-setup/butt-install-sourceforge.jpg" alt="butt-install-sourceforge" width="50%">
 
-2. Install butt.
+2. Install butt. Images shown are for installing on Windows.
+
+<img src="images/butt/install-setup/butt-exe.jpg" alt="butt-exe" width="50%">
+<img src="images/butt/install-setup/butt-installer-1.jpg" alt="butt-installer-1" width="50%">
+<img src="images/butt/install-setup/butt-installer-2.jpg" alt="butt-installer-1" width="50%">
+<img src="images/butt/install-setup/butt-installer-3.jpg" alt="butt-installer-1" width="50%">
+<img src="images/butt/install-setup/butt-installer-4.jpg" alt="butt-installer-1" width="50%">
+<img src="images/butt/install-setup/butt-installer-5.jpg" alt="butt-installer-1" width="50%">
 
 3. Run butt.
 
