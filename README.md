@@ -56,7 +56,7 @@ WJRH Engineering recommend the broadcast using this tool (butt) program for gene
 
 <img src="images/butt/install-setup/butt-settings-main-server-add.jpg" alt="butt-settings-main-server-add" width="50%">
 
-6. Fill out the server information as shown in the picture replacing your-program-name, your-mountpoint, and your-password with your actual information. This information was provided to you by WJRH Engineering when you signed up for a program. If you are unsure about this information, please contact WJRH Engineering.
+6. Fill out the server information as shown in the picture replacing your-program-name, your-mountpoint, and your-password with your actual program name, mountpoint, and password. This information was provided to you by WJRH Engineering when you signed up for a program. If you are unsure about this information, please contact WJRH Engineering.
 
 |Setting|Value|Value in Example|
 |-------|-----|----------------|
@@ -68,7 +68,11 @@ WJRH Engineering recommend the broadcast using this tool (butt) program for gene
 
 <img src="images/butt/install-setup/butt-settings-main-server-add-example.jpg" alt="butt-settings-main-server-add" width="50%">
 
-7.
+7. When finished, click ADD.
+
+<img src="images/butt/install-setup/butt-settings-main-server-add-example-click-add.jpg" alt="butt-settings-main-server-add-click-add" width="50%">
+
+<img src="images/butt/install-setup/butt-settings-main-server-selected.jpg" alt="butt-settings-main-server-selected" width="50%">
 
 8.
 
