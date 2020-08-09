@@ -17,6 +17,15 @@ In order to broadcast remotely, DJs must be able to create Icecast sources. This
 
 Note that only one person may connect to a mountpoint on the Icecast server at a time. You will need to coordinate with the members of yoour program to decide who will generate the Icecast source for each episode. The person generating the Icecast source will be referred to as the broadcaster. Audio from colloborators will need to be added to the mix by the broadcaster.
 
+### Required Hardware
+Minimum
+- a computer
+- internet access
+
+Live Real World Audio
+- microphone (can be build into computer)
+- headphones (highly recommended to avoid accidental feedback)
+
 ### Icecast Mount Point Settings
 Every program will have a uniquie mount point. Use the following settings in your Icecast souce client.
 
