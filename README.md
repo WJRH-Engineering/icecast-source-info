@@ -90,9 +90,29 @@ WJRH Engineering recommends the broadcast using this tool (butt) program as your
 
 <img src="images/butt/install-setup/butt-settings-main-stream-infos-add.jpg" alt="butt-settings-main-stream-infos-add" width="50%">
 
-9. 
+9. Fill out the server information as shown in the following picture.
 
-If you have more than one program, add more servers and stream infos using steps 4 through 7 (X).
+<img src="images/butt/install-setup/butt-settings-main-stream-infos-add-example.jpg" alt="butt-settings-main-stream-infos-add-example" width="50%">
+
+10. When finished, click ADD. You will return to the butt settings. The stream information you just added is now listed in the Stream Infos selection dropdown.
+
+<img src="images/butt/install-setup/butt-settings-main-stream-infos-add-example-click-add.jpg" alt="butt-settings-main-stream-infos-add-example-click-add" width="50%">
+
+<img src="images/butt/install-setup/butt-settings-main-server-stream-infos-selected.jpg" alt="butt-settings-main-server-stream-infos-selected" width="50%">
+
+11. If you have more than one program, add more servers and stream infos using steps 4 through 10.
+
+12. Audio settings - default is acceptable for now - show how to select audio input. (Will change depending on your virtual mixer.)
+
+13. Stream settings - show how to update metadata on stream (Song Title - Artist)
+
+14. Show how to start stream
+
+15. Show example of error message when mountpoint/username/password are incorrect.
+
+16. Show how to stop stream.
+
+17. Note the local recording functionality if desired.
 
 By default, butt will only broadcast audio input devices, such as the built in microphone on your computer. To broadcast from audio programs on your computer (e.g. Spotify), a virtual mixer will need to be used.
 
