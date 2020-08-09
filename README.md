@@ -50,7 +50,7 @@ WJRH Engineering recommends the broadcast using this tool (butt) program as your
 <img src="images/butt/install-setup/butt-installer-4.jpg" alt="butt-installer-1" width="50%">
 <img src="images/butt/install-setup/butt-installer-5.jpg" alt="butt-installer-1" width="50%">
 
-3. Run butt if not launched by during the installation.
+3. Run butt if not launched after installation.
 
 <img src="images/butt/install-setup/butt-startup.jpg" alt="butt-startup" width="50%">
 
