@@ -160,37 +160,39 @@ Download VoiceMeeter at [https://www.vb-audio.com/Voicemeeter/](https://www.vb-a
 
 A more complex version of VoiceMeeter Banana is a more complex version of VoiceMeeter that provides additional audio inputs and outputs. It can be downloaded at [https://www.vb-audio.com/Voicemeeter/banana.htm](https://www.vb-audio.com/Voicemeeter/banana.htm).
 
+1.
 
+2.
 
-### Optional
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+9.
+
+#### Mac
+
+TODO
+
+#### Linux
+
+TODO
+
+### Optional - Virutal Audio Cable
+The virtual audio cable can be used to separate a programs audio output from the computers audio output. This will give the broadcaster finer control of the separate audio and can make mixing easier.
+
 [https://www.vb-audio.com/Cable/index.htm](https://www.vb-audio.com/Cable/index.htm)
 
 ## Examples
 WJRH Engineering knows that all shows are different. Here are some recommended ways to implement common show elements using the recommended setup on a Windows Computer.
 
-### Case 1 - Computer Audio Output
-Icecast Source Client: butt
-Virtual Mixer: VoiceMeeter
-
-Audio Inputs
-- Computer Audio Output
-
-Audio Outputs
-- Main mix for Icecast source
-- Audio for Broadcaster (speakers/headphones)
-
-### Case 2 - Single Microphone
-Icecast Source Client: butt
-Virtual Mixer: VoiceMeeter
-
-Audio Inputs
-- Broadcaster Microphone
-
-Audio Outputs
-- Main mix for Icecast source
-- Audio for Broadcaster (headphones)
-
-### Case 3 - Single Microphone with Computer Audio Output
+### Case 1 - Single Microphone with Computer Audio Output
 Icecast Source Client: butt
 Virtual Mixer: VoiceMeeter
 
@@ -202,7 +204,7 @@ Audio Outputs
 - Main mix for Icecast source
 - Audio for Broadcaster (headphones)
 
-### Case 4 - Single Microphone with Program Specific Audio Channel
+### Case 2 - Single Microphone with Program Specific Audio Channel
 Icecast Source Client: butt
 Virtual Mixer: VoiceMeeter + Virtual Audio Cable
 
@@ -214,7 +216,7 @@ Audio Outputs
 - Main mix for Icecast source
 - Audio for Broadcaster (headphones)
 
-### Case 5 - Single Microphone with Collaborator Skype Audio
+### Case 3 - Single Microphone with Collaborator Skype Audio
 This setup will show how to create a mix in VoiceMeeter to support collaborators over Skype.
 
 Icecast Source Client: butt
@@ -229,7 +231,7 @@ Audio Outputs
 - Audio for Broadcaster (headphones)
 - Audio for Skype Collaborators
 
-### Case 6 - Single Microphone with Collaborator Audio and Program Specific (may be only able to do computer audio output for free (can be done if buying the dual virtual audio cable) Audio Channel 
+### Case 7 - Single Microphone with Collaborator Audio and Program Specific (may be only able to do computer audio output for free (can be done if buying the dual virtual audio cable) Audio Channel 
 
 
 
