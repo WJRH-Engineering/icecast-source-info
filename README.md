@@ -104,15 +104,41 @@ WJRH Engineering recommends the broadcast using this tool (butt) program as your
 
 12. Audio settings - default is acceptable for now - show how to select audio input. (Will change depending on your virtual mixer.)
 
+<img src="images/butt/install-setup/butt-settings-audio-default.jpg" alt="butt-settings-audio-default" width="50%">
+
 13. Stream settings - show how to update metadata on stream (Song Title - Artist)
 
-14. Show how to start stream
+<img src="images/butt/install-setup/butt-settings-stream-default.jpg" alt="butt-settings-stream-default" width="50%">
+
+14. Save your settings to the configuration file. Once saved, close the butt settings.
+
+<img src="images/butt/install-setup/butt-settings-main-server-stream-infos-selected-save.jpg" alt="butt-settings-main-server-stream-infos-selected-save" width="50%">
+
+<img src="images/butt/install-setup/butt-config-saved.jpg" alt="butt-config-saved" width="50%">
+
+14. To begin streaming, click the play button.
+
+<img src="images/butt/install-setup/butt-config-saved-stream-start.jpg" alt="butt-config-saved-stream-start" width="50%">
+
+<img src="images/butt/install-setup/butt-streaming.jpg" alt="butt-streaming" width="50%">
+
+<img src="images/butt/install-setup/icecast-status-example.jpg" alt="icecast-status-example" width="50%">
 
 15. Show example of error message when mountpoint/username/password are incorrect.
 
-16. Show how to stop stream.
+<img src="images/butt/install-setup/butt-invalid-user-password.jpg" alt="butt-invalid-user-password" width="50%">
 
-17. Note the local recording functionality if desired.
+16. Show updating metadata and result.
+
+TODO
+
+17. Show how to stop stream.
+
+<img src="images/butt/install-setup/butt-streaming-click-stop.jpg" alt="butt-streaming-click-stop" width="50%">
+
+<img src="images/butt/install-setup/butt-streaming-stopped.jpg" alt="butt-streaming-stopped" width="50%">
+
+18. Note the local recording functionality if desired.
 
 By default, butt will only broadcast audio input devices, such as the built in microphone on your computer. To broadcast from audio programs on your computer (e.g. Spotify), a virtual mixer will need to be used.
 
